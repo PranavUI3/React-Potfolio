@@ -4,6 +4,7 @@ import Hero from './components/Hero'
 import Skills from './components/Skills'
 import Aboutme from './components/Aboutme'
 import Current from './components/Current'
+import LetsConnect from './components/LetsConnect'
 
 function App() {
 
@@ -14,6 +15,7 @@ function App() {
      <Aboutme />
      <Skills />
      <Current />
+     <LetsConnect />
     </>
   )
 }
