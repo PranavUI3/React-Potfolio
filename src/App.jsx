@@ -5,6 +5,7 @@ import Skills from './components/Skills'
 import Aboutme from './components/Aboutme'
 import Current from './components/Current'
 import LetsConnect from './components/LetsConnect'
+import Footer from './components/Footer'
 
 function App() {
 
@@ -16,6 +17,7 @@ function App() {
      <Skills />
      <Current />
      <LetsConnect />
+     <Footer />
     </>
   )
 }
